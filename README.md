@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chia-Hsien (Cathy) Shih</h1>
 <h3 align="center">A passionate machine learning researcher and developer</h3>
 
-- 🔭 I’m currently working on **training an Octopus arm to throw balls**
+- 🔭 I’m currently working on [training an octopus arm to throw balls](https://github.com/chshih2/Control-of-an-soft-arm-with-dynamic-primitives)
 
-- 👯 I’m also working on **multi-arm coordination**
+- 👯 I’m also working on [multi-arm coordination](https://github.com/chshih2/Multi-arm-coordination-for-foraging)
+
+- 🏎 I sped up soft arm control with [energy shaping control](https://github.com/chshih2/Real-time-control-of-an-octopus-arm-NNES)
+
+- 👨‍💻 All of my projects are available at [https://chshih2.github.io/](https://chshih2.github.io/)
 
 - 💬 I'm interested in **integrating ML algorithms to aid solving complex problems**
 
