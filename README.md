@@ -5,7 +5,7 @@
 
 - 👯 I’m also working on [multi-arm coordination](https://github.com/chshih2/Multi-arm-coordination-for-foraging)
 
-- 🏎 I sped up soft arm control with [energy shaping control](https://github.com/chshih2/Real-time-control-of-an-octopus-arm-NNES)
+- 🏎 I speed up soft arm control with [energy shaping control](https://github.com/chshih2/Real-time-control-of-an-octopus-arm-NNES)
 
 - 👨‍💻 All of my projects are available at [https://chshih2.github.io/](https://chshih2.github.io/)
 
