@@ -7,6 +7,8 @@
 
 - 🏎 I speed up soft arm control with [energy shaping control](https://github.com/chshih2/Real-time-control-of-an-octopus-arm-NNES)
 
+- 💫 I build open-source softwares like [gym-softrobot](https://github.com/skim0119/gym-softrobot) and [Control Oriented Octopus Muscle Model](https://github.com/hanson-hschang/COOMM)
+
 - 👨‍💻 All of my projects are available at [https://chshih2.github.io/](https://chshih2.github.io/)
 
 - 💬 I'm interested in **integrating ML algorithms to aid solving complex problems**
