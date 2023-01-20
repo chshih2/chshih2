@@ -7,7 +7,7 @@
 
 - 🏎 I speed up soft arm control with [energy shaping control](https://github.com/chshih2/Real-time-control-of-an-octopus-arm-NNES)
 
-- 💫 I build open-source softwares like [gym-softrobot](https://github.com/skim0119/gym-softrobot) and [Control Oriented Octopus Muscle Model](https://github.com/hanson-hschang/COOMM)
+- 💫 I build and contribute to open-source softwares like [gym-softrobot](https://github.com/skim0119/gym-softrobot), [Control Oriented Octopus Muscle Model](https://github.com/hanson-hschang/COOMM), and [interactive learning materials on numerical methods](https://github.com/PrairieLearn/pl-me471)
 
 - 👨‍💻 All of my projects are available at [https://chshih2.github.io/](https://chshih2.github.io/)
 
