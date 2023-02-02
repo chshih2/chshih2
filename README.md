@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently looking into [online planning with Monte-Carlo tree search](https://github.com/chshih2/Guided-online-MCTS) to potentially apply to multi-agent control.
 
-- 👯 I’ve also worked on [training an octopus arm to throw balls](https://github.com/chshih2/Control-of-an-soft-arm-with-dynamic-primitives) and [multi-arm coordination](https://github.com/chshih2/Multi-arm-coordination-for-foraging)
+- 👯 I’ve also worked on [training an octopus arm to throw balls using imitation learning](https://github.com/chshih2/Control-of-an-soft-arm-with-dynamic-primitives) and [multi-arm coordination using hierarchical reinforcement learning](https://github.com/chshih2/Multi-arm-coordination-for-foraging)
 
-- 🏎 I speed up soft arm control with [energy shaping control](https://github.com/chshih2/Real-time-control-of-an-octopus-arm-NNES)
+- 🏎 I speed up soft arm control with [model-based unsupervied learning](https://github.com/chshih2/Real-time-control-of-an-octopus-arm-NNES)
 
 - 💫 I build and contribute to open-source softwares like [gym-softrobot](https://github.com/skim0119/gym-softrobot), [Control Oriented Octopus Muscle Model](https://github.com/hanson-hschang/COOMM), and [interactive learning materials on numerical methods](https://github.com/PrairieLearn/pl-me471)
 
