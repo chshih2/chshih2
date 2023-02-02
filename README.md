@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chia-Hsien (Cathy) Shih</h1>
 <h3 align="center">A passionate machine learning researcher and developer</h3>
 
-- 🔭 I’m currently working on [training an octopus arm to throw balls](https://github.com/chshih2/Control-of-an-soft-arm-with-dynamic-primitives)
+- 🔭 I’m currently looking into [online planning with Monte-Carlo tree search](https://github.com/chshih2/Guided-online-MCTS) to potentially apply to multi-agent control.
 
-- 👯 I’m also working on [multi-arm coordination](https://github.com/chshih2/Multi-arm-coordination-for-foraging)
+- 👯 I’ve also worked on [training an octopus arm to throw balls](https://github.com/chshih2/Control-of-an-soft-arm-with-dynamic-primitives) and [multi-arm coordination](https://github.com/chshih2/Multi-arm-coordination-for-foraging)
 
 - 🏎 I speed up soft arm control with [energy shaping control](https://github.com/chshih2/Real-time-control-of-an-octopus-arm-NNES)
 
